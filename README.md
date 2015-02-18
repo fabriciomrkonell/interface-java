@@ -1,2 +1,4 @@
-# interface-java
-Implementação de interface em Java.
+# Interface em Java
+
+# Referências
+* <a href="http://www.caelum.com.br/apostila-java-orientacao-objetos/interfaces/#10-1-aumentando-nosso-exemplo">Caelum</a>
